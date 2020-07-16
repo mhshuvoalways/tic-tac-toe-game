@@ -1,6 +1,6 @@
-# Tic-Tac-Toe-App
+# ReactTic-Tac-Toe-App
 
-This is a project template for mern apps. It lives at https://tic-tac-toe-app-mhs.netlify.app
+This is a project template for mern apps. It lives at https://react-tic-tac-toe-app-mhs.netlify.app
 
 ## Get started
 
