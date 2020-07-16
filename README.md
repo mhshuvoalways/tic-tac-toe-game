@@ -16,5 +16,4 @@ For running localhost just hit...
 npm start
 ```
 
-Backend will run on http://localhost:5000. 
-Frontend will run on http://localhost:3000
+It will run on http://localhost:3000
